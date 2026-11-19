@@ -1,0 +1,44 @@
+{
+  "snapshots": [
+    {
+      "id": "snap_1795075832017_pww1d6",
+      "timestamp": 1795075832018,
+      "description": "Initial workspace state",
+      "affectedFiles": [],
+      "workspaceState": {}
+    },
+    {
+      "id": "snap_1795075858889_qjmpaz",
+      "timestamp": 1795075858889,
+      "description": "Files created",
+      "affectedFiles": [
+        ".gitignore"
+      ],
+      "workspaceState": {
+        ".gitignore": "e3b0c44298fc"
+      }
+    },
+    {
+      "id": "snap_1795075862696_y0z9sr",
+      "timestamp": 1795075862696,
+      "description": "File saved",
+      "affectedFiles": [
+        ".gitignore"
+      ],
+      "workspaceState": {
+        ".gitignore": "c14cecec9731"
+      }
+    },
+    {
+      "id": "snap_1795075891342_sh8gi9",
+      "timestamp": 1795075891342,
+      "description": "File saved",
+      "affectedFiles": [
+        ".gitignore"
+      ],
+      "workspaceState": {
+        ".gitignore": "3ac9114a04cc"
+      }
+    }
+  ]
+}
